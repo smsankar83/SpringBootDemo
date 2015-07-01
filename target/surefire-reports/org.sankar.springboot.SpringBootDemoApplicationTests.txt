@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sankar.springboot.SpringBootDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.77 sec - in org.sankar.springboot.SpringBootDemoApplicationTests
