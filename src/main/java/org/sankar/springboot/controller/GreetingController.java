@@ -15,7 +15,7 @@ public class GreetingController {
 	private static final String template = "Hello, %s!";
 	private final AtomicLong counter = new AtomicLong();
 	
-	@RequestMapping(value="/", method=RequestMethod.PUT)
+	@RequestMapping(value="/", method=RequestMethod.GET)
 	public String getRoot() {
 		
 		return "Welcome to Spring boot Demo page !!!";
